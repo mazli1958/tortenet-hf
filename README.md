@@ -1,7 +1,5 @@
-# T”rt‚net HF
-
-## T‚ma: Az iskola, ami nem volt ott tegnap
-## P ros tagok
-- N‚v1
-- N‚v1 - Tibi
+# tortenet-hf
+## Tema: Az iskola, ami nem volt ott tegnap
+## Paros tagok
+- Tibi
 - Ex_Petra
